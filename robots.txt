@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kangsubsong76-droid.github.io/snippets-ya116o/sitemap.xml
